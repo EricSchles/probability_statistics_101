@@ -11,3 +11,7 @@
 ## Lecture Three - Set Theory Basics
 
 [Lecture link](https://www.youtube.com/watch?v=MMReOKfJHVU)
+
+## Lecture Four - Counting Subsets 
+
+[Lecture link]()
