@@ -10,4 +10,4 @@
 
 ## Lecture Three - Set Theory Basics
 
-[Lecture link]()
+[Lecture link](https://www.youtube.com/watch?v=MMReOKfJHVU)
