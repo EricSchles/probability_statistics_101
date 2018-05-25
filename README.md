@@ -14,4 +14,4 @@
 
 ## Lecture Four - Counting Subsets 
 
-[Lecture link]()
+[Lecture link](https://www.youtube.com/watch?v=qCwnO6mycvk)
