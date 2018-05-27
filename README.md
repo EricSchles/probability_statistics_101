@@ -15,3 +15,7 @@
 ## Lecture Four - Counting Subsets 
 
 [Lecture link](https://www.youtube.com/watch?v=qCwnO6mycvk)
+
+## Lecture Five - Applying Counting To Probability
+
+[Lecture link](https://www.youtube.com/watch?v=7oUA8kDpJyo)
